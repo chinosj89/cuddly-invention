@@ -12,9 +12,9 @@
   SO THAT I can quickly create a professional README for a new project
   ```
   ### Prompts: 
-  ![Alt text](/Assets/image-1.png)
+  ![Alt text](/assets/image-1.png)
   ### Generated ReadMe
-  ![Alt text](/Assets/image.png)
+  ![Alt text](/assets/image.png)
   
   ## Table of Contents
   - [Installation](#installation)
